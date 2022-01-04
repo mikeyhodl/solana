@@ -12,7 +12,7 @@ default-run = "solana-validator"
 
 [dependencies]
 chrono = { version = "0.4.11", features = ["serde"] }
-clap = "2.33.1"
+clap = "3.0.1"
 console = "0.15.0"
 core_affinity = "0.5.10"
 fd-lock = "3.0.2"
@@ -25,8 +25,8 @@ jsonrpc-server-utils= "18.0.0"
 log = "0.4.14"
 num_cpus = "1.13.1"
 rand = "0.7.0"
-serde = "1.0.132"
-serde_json = "1.0.73"
+serde = "1.0.133"
+serde_json = "1.0.74"
 solana-clap-utils = { path = "../clap-utils", version = "=1.10.0" }
 solana-cli-config = { path = "../cli-config", version = "=1.10.0" }
 solana-client = { path = "../client", version = "=1.10.0" }
