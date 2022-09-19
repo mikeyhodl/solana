@@ -46,7 +46,7 @@ solana-version = { path = "../version", version = "=1.10.3" }
 solana-vote-program = { path = "../programs/vote", version = "=1.10.3" }
 thiserror = "1.0"
 tokio = { version = "1", features = ["full"] }
-tokio-stream = "0.1.8"
+tokio-stream = "0.1.10"
 tokio-tungstenite = { version = "0.17.1", features = ["rustls-tls-webpki-roots"] }
 tungstenite = { version = "0.17.2", features = ["rustls-tls-webpki-roots"] }
 url = "2.2.2"
