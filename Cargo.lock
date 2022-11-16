@@ -2022,9 +2022,9 @@ dependencies = [
 
 [[package]]
 name = "itertools"
-version = "0.10.3"
+version = "0.10.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "a9a9d19fa1e79b6215ff29b9d6880b706147f16e9b1dbb1e4e5947b5b02bc5e3"
+checksum = "b0fd2260e829bddf4cb6ea802289de2f86d6a7a690192fbe91b3f46e0f2c8473"
 dependencies = [
  "either",
 ]
@@ -3038,7 +3038,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "5c6ce811d0b2e103743eec01db1c50612221f173084ce2f7941053e94b6bb474"
 dependencies = [
  "difflib",
- "itertools 0.10.3",
+ "itertools 0.10.5",
  "predicates-core",
 ]
 
@@ -3169,7 +3169,7 @@ checksum = "62941722fb675d463659e49c4f3fe1fe792ff24fe5bbaa9c08cd3b98a1c354f5"
 dependencies = [
  "bytes",
  "heck",
- "itertools 0.10.3",
+ "itertools 0.10.5",
  "lazy_static",
  "log",
  "multimap",
@@ -3188,7 +3188,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "f9cc1a3263e07e0bf68e96268f37665207b49560d98739662cdfaae215c720fe"
 dependencies = [
  "anyhow",
- "itertools 0.10.3",
+ "itertools 0.10.5",
  "proc-macro2 1.0.32",
  "quote 1.0.10",
  "syn 1.0.81",
@@ -4594,7 +4594,7 @@ dependencies = [
  "futures 0.3.21",
  "futures-util",
  "indicatif",
- "itertools 0.10.3",
+ "itertools 0.10.5",
  "jsonrpc-core",
  "jsonrpc-http-server",
  "lazy_static",
@@ -4688,7 +4688,7 @@ dependencies = [
  "etcd-client",
  "fs_extra",
  "histogram",
- "itertools 0.10.3",
+ "itertools 0.10.5",
  "log",
  "lru",
  "matches",
@@ -4959,7 +4959,7 @@ dependencies = [
  "crossbeam-channel",
  "flate2",
  "indexmap",
- "itertools 0.10.3",
+ "itertools 0.10.5",
  "log",
  "lru",
  "matches",
@@ -5055,7 +5055,7 @@ dependencies = [
  "crossbeam-channel",
  "fs_extra",
  "futures 0.3.21",
- "itertools 0.10.3",
+ "itertools 0.10.5",
  "lazy_static",
  "libc",
  "log",
@@ -5109,7 +5109,7 @@ dependencies = [
  "csv",
  "dashmap",
  "histogram",
- "itertools 0.10.3",
+ "itertools 0.10.5",
  "log",
  "regex",
  "serde",
@@ -5141,7 +5141,7 @@ dependencies = [
  "crossbeam-channel",
  "fs_extra",
  "gag",
- "itertools 0.10.3",
+ "itertools 0.10.5",
  "log",
  "rand 0.7.3",
  "rayon",
@@ -5401,7 +5401,7 @@ dependencies = [
  "console_log",
  "curve25519-dalek 3.2.1",
  "getrandom 0.1.16",
- "itertools 0.10.3",
+ "itertools 0.10.5",
  "js-sys",
  "lazy_static",
  "libsecp256k1 0.6.0",
@@ -5434,7 +5434,7 @@ dependencies = [
  "base64 0.13.0",
  "bincode",
  "enum-iterator",
- "itertools 0.10.3",
+ "itertools 0.10.5",
  "libc",
  "libloading",
  "log",
@@ -5553,7 +5553,7 @@ dependencies = [
  "bs58 0.4.0",
  "crossbeam-channel",
  "dashmap",
- "itertools 0.10.3",
+ "itertools 0.10.5",
  "jsonrpc-core",
  "jsonrpc-core-client",
  "jsonrpc-derive",
@@ -5641,7 +5641,7 @@ dependencies = [
  "fnv",
  "im",
  "index_list",
- "itertools 0.10.3",
+ "itertools 0.10.5",
  "lazy_static",
  "libsecp256k1 0.6.0",
  "log",
@@ -5701,7 +5701,7 @@ dependencies = [
  "ed25519-dalek-bip32",
  "generic-array 0.14.5",
  "hmac 0.12.1",
- "itertools 0.10.3",
+ "itertools 0.10.5",
  "js-sys",
  "lazy_static",
  "libsecp256k1 0.6.0",
@@ -5864,7 +5864,7 @@ dependencies = [
  "crossbeam-channel",
  "futures-util",
  "histogram",
- "itertools 0.10.3",
+ "itertools 0.10.5",
  "libc",
  "log",
  "nix",
