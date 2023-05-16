@@ -62,7 +62,7 @@ features = ["lz4"]
 
 [dev-dependencies]
 assert_matches = "1.5.0"
-matches = "0.1.9"
+matches = "0.1.10"
 solana-account-decoder = { path = "../account-decoder", version = "=1.10.3" }
 solana-logger = { path = "../logger", version = "=1.10.3" }
 

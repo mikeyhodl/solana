@@ -26,7 +26,7 @@ solana-rayon-threadlimit = { path = "../rayon-threadlimit", version = "=1.10.3" 
 solana-sdk = { path = "../sdk", version = "=1.10.3" }
 
 [dev-dependencies]
-matches = "0.1.9"
+matches = "0.1.10"
 solana-logger = { path = "../logger", version = "=1.10.3" }
 
 [lib]

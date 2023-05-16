@@ -64,7 +64,7 @@ tokio = { version = "1", features = ["full"] }
 trees = "0.4.2"
 
 [dev-dependencies]
-matches = "0.1.9"
+matches = "0.1.10"
 raptorq = "1.6.5"
 reqwest = { version = "0.11.10", default-features = false, features = ["blocking", "rustls-tls", "json"] }
 serde_json = "1.0.79"
