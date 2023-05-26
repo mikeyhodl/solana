@@ -12,7 +12,7 @@ publish = false
 [dependencies]
 clap = { version = "3.1.5", features = ["cargo"] }
 serde = "1.0.136"
-serde_json = "1.0.79"
+serde_json = "1.0.96"
 solana-bpf-loader-program = { path = "../programs/bpf_loader", version = "=1.10.3" }
 solana-logger = { path = "../logger", version = "=1.10.3" }
 solana-program-runtime = { path = "../program-runtime", version = "=1.10.3" }
