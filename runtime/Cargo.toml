@@ -34,7 +34,7 @@ num_cpus = "1.13.1"
 ouroboros = "0.14.2"
 rand = "0.7.0"
 rayon = "1.5.1"
-regex = "1.5.4"
+regex = "1.7.3"
 serde = { version = "1.0.136", features = ["rc"] }
 serde_derive = "1.0.103"
 solana-address-lookup-table-program = { path = "../programs/address-lookup-table", version = "=1.10.3" }
