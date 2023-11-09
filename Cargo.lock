@@ -3604,7 +3604,7 @@ dependencies = [
  "tokio",
  "tokio-native-tls",
  "tokio-rustls 0.23.2",
- "url 2.2.2",
+ "url 2.3.0",
  "wasm-bindgen",
  "wasm-bindgen-futures",
  "web-sys",
@@ -4494,7 +4494,7 @@ dependencies = [
  "thiserror",
  "tiny-bip39",
  "uriparse",
- "url 2.2.2",
+ "url 2.3.0",
 ]
 
 [[package]]
@@ -4552,7 +4552,7 @@ dependencies = [
  "serde",
  "serde_derive",
  "serde_yaml",
- "url 2.2.2",
+ "url 2.3.0",
 ]
 
 [[package]]
@@ -4624,7 +4624,7 @@ dependencies = [
  "tokio-stream",
  "tokio-tungstenite",
  "tungstenite",
- "url 2.2.2",
+ "url 2.3.0",
 ]
 
 [[package]]
@@ -5022,7 +5022,7 @@ dependencies = [
  "solana-version",
  "tar",
  "tempfile",
- "url 2.2.2",
+ "url 2.3.0",
  "winapi 0.3.9",
  "winreg",
 ]
@@ -5268,7 +5268,7 @@ dependencies = [
  "solana-sdk",
  "solana-version",
  "tokio",
- "url 2.2.2",
+ "url 2.3.0",
 ]
 
 [[package]]
@@ -6969,7 +6969,7 @@ dependencies = [
  "rustls 0.20.4",
  "sha-1 0.10.0",
  "thiserror",
- "url 2.2.2",
+ "url 2.3.0",
  "utf-8",
  "webpki 0.22.0",
  "webpki-roots",
@@ -7092,13 +7092,12 @@ dependencies = [
 
 [[package]]
 name = "url"
-version = "2.2.2"
+version = "2.3.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "a507c383b2d33b5fc35d1861e77e6b383d158b2da5e14fe51b83dfedf6fd578c"
+checksum = "22fe195a4f217c25b25cb5058ced57059824a678474874038dc88d211bf508d3"
 dependencies = [
  "form_urlencoded",
  "idna 0.2.3",
- "matches",
  "percent-encoding 2.1.0",
 ]
 
