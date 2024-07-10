@@ -30,7 +30,7 @@ solana-streamer = { path = "../streamer", version = "=1.10.3" }
 solana-version = { path = "../version", version = "=1.10.3" }
 
 [dev-dependencies]
-serial_test = "0.6.0"
+serial_test = "3.0.0"
 solana-local-cluster = { path = "../local-cluster", version = "=1.10.3" }
 
 [package.metadata.docs.rs]

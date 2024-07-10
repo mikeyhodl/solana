@@ -31,7 +31,7 @@ solana-validator = { path = "../validator", version = "=1.10.3" }
 solana-version = { path = "../version", version = "=1.10.3" }
 
 [dev-dependencies]
-serial_test = "0.6.0"
+serial_test = "3.0.0"
 solana-core = { path = "../core", version = "=1.10.3" }
 solana-local-cluster = { path = "../local-cluster", version = "=1.10.3" }
 tempfile = "3.3.0"
