@@ -599,7 +599,7 @@ version = "0.2.7"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "4c24dab4283a142afa2fdca129b80ad2c6284e073930f964c3a1293c225ee39a"
 dependencies = [
- "rustc_version 0.4.0",
+ "rustc_version 0.4.1",
 ]
 
 [[package]]
@@ -3687,9 +3687,9 @@ dependencies = [
 
 [[package]]
 name = "rustc_version"
-version = "0.4.0"
+version = "0.4.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "bfa0f585226d2e68097d4f95d113b15b83a82e819ab25717ec0590d9584ef366"
+checksum = "cfcb3a22ef46e85b45de6ee7e79d063319ebb6594faafcf1c225ea92ab6e9b92"
 dependencies = [
  "semver 1.0.6",
 ]
@@ -4283,7 +4283,7 @@ dependencies = [
  "log",
  "num-derive",
  "num-traits",
- "rustc_version 0.4.0",
+ "rustc_version 0.4.1",
  "serde",
  "solana-frozen-abi 1.10.3",
  "solana-frozen-abi-macro 1.10.3",
@@ -4415,7 +4415,7 @@ dependencies = [
  "log",
  "rand 0.7.3",
  "rayon",
- "rustc_version 0.4.0",
+ "rustc_version 0.4.1",
  "serde",
  "serde_derive",
  "solana-frozen-abi 1.10.3",
@@ -4698,7 +4698,7 @@ dependencies = [
  "rayon",
  "reqwest",
  "retain_mut",
- "rustc_version 0.4.0",
+ "rustc_version 0.4.1",
  "serde",
  "serde_derive",
  "serde_json",
@@ -4857,7 +4857,7 @@ dependencies = [
  "im",
  "log",
  "memmap2 0.5.3",
- "rustc_version 0.4.0",
+ "rustc_version 0.4.1",
  "serde",
  "serde_derive",
  "sha2 0.10.2",
@@ -4884,7 +4884,7 @@ version = "1.10.3"
 dependencies = [
  "proc-macro2 1.0.32",
  "quote 1.0.10",
- "rustc_version 0.4.0",
+ "rustc_version 0.4.1",
  "syn 1.0.81",
 ]
 
@@ -4968,7 +4968,7 @@ dependencies = [
  "rand 0.7.3",
  "rand_chacha 0.2.2",
  "rayon",
- "rustc_version 0.4.0",
+ "rustc_version 0.4.1",
  "serde",
  "serde_bytes",
  "serde_derive",
@@ -5069,7 +5069,7 @@ dependencies = [
  "rayon",
  "reed-solomon-erasure",
  "rocksdb",
- "rustc_version 0.4.0",
+ "rustc_version 0.4.1",
  "serde",
  "serde_bytes",
  "sha2 0.10.2",
@@ -5410,7 +5410,7 @@ dependencies = [
  "num-traits",
  "parking_lot 0.12.0",
  "rand 0.7.3",
- "rustc_version 0.4.0",
+ "rustc_version 0.4.1",
  "rustversion",
  "serde",
  "serde_bytes",
@@ -5440,7 +5440,7 @@ dependencies = [
  "log",
  "num-derive",
  "num-traits",
- "rustc_version 0.4.0",
+ "rustc_version 0.4.1",
  "serde",
  "solana-frozen-abi 1.10.3",
  "solana-frozen-abi-macro 1.10.3",
@@ -5654,7 +5654,7 @@ dependencies = [
  "rand_chacha 0.2.2",
  "rayon",
  "regex",
- "rustc_version 0.4.0",
+ "rustc_version 0.4.1",
  "serde",
  "serde_derive",
  "solana-address-lookup-table-program",
@@ -5713,7 +5713,7 @@ dependencies = [
  "qstring",
  "rand 0.7.3",
  "rand_chacha 0.2.2",
- "rustc_version 0.4.0",
+ "rustc_version 0.4.1",
  "rustversion",
  "serde",
  "serde_bytes",
@@ -5791,7 +5791,7 @@ dependencies = [
  "num-derive",
  "num-traits",
  "proptest",
- "rustc_version 0.4.0",
+ "rustc_version 0.4.1",
  "serde",
  "serde_derive",
  "solana-config-program",
@@ -6066,7 +6066,7 @@ name = "solana-version"
 version = "1.10.3"
 dependencies = [
  "log",
- "rustc_version 0.4.0",
+ "rustc_version 0.4.1",
  "serde",
  "serde_derive",
  "solana-frozen-abi 1.10.3",
@@ -6082,7 +6082,7 @@ dependencies = [
  "log",
  "num-derive",
  "num-traits",
- "rustc_version 0.4.0",
+ "rustc_version 0.4.1",
  "serde",
  "serde_derive",
  "solana-frozen-abi 1.10.3",
