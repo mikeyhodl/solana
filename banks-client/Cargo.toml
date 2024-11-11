@@ -18,7 +18,7 @@ solana-sdk = { path = "../sdk", version = "=1.10.3" }
 tarpc = { version = "0.27.2", features = ["full"] }
 thiserror = "1.0"
 tokio = { version = "1", features = ["full"] }
-tokio-serde = { version = "0.8", features = ["bincode"] }
+tokio-serde = { version = "0.9", features = ["bincode"] }
 
 [dev-dependencies]
 solana-banks-server = { path = "../banks-server", version = "=1.10.3" }
