@@ -27,7 +27,7 @@ solana-sdk = { path = "../sdk", version = "=1.10.3" }
 solana-stake-program = { path = "../programs/stake", version = "=1.10.3" }
 solana-streamer = { path = "../streamer", version = "=1.10.3" }
 solana-vote-program = { path = "../programs/vote", version = "=1.10.3" }
-tempfile = "3.3.0"
+tempfile = "3.10.1"
 
 [dev-dependencies]
 assert_matches = "1.5.0"
