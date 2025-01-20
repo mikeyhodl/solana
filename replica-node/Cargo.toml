@@ -34,7 +34,7 @@ solana-version = { path = "../version", version = "=1.10.3" }
 serial_test = "0.6.0"
 solana-core = { path = "../core", version = "=1.10.3" }
 solana-local-cluster = { path = "../local-cluster", version = "=1.10.3" }
-tempfile = "3.3.0"
+tempfile = "3.10.1"
 
 [package.metadata.docs.rs]
 targets = ["x86_64-unknown-linux-gnu"]
