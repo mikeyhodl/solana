@@ -18,7 +18,7 @@ const_format = "0.2.22"
 criterion-stats = "0.3.0"
 crossbeam-channel = "0.5"
 ctrlc = { version = "3.2.1", features = ["termination"] }
-humantime = "2.0.1"
+humantime = "2.2.0"
 log = "0.4.14"
 num-traits = "0.2"
 pretty-hex = "0.2.1"
